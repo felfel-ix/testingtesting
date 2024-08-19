@@ -19,5 +19,8 @@
   "homepage": "https://github.com/felfel-ix/testingtesting#readme",
   "dependencies": {
     "express": "^4.19.2"
-  }
+  },
+  "scripts": {
+    "test": "echo \"No tests specified\""
+}
 }
